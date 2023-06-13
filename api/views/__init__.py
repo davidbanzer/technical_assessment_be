@@ -1,1 +1,2 @@
 from .strings_problem_view import StringsProblemView
+from .chess_problem_view import ChessProblemView
